@@ -9,7 +9,7 @@ from openpyxl import load_workbook
 def Overall(dataStore, directory):
     for root, subdirectories, files in os.walk(directory):
         for file in files:
-            if re.search('.day', file):
+            if re.search('.unique_file_extension', file):
                 f = os.path.join(root, file)
 
                 flat_list = []
