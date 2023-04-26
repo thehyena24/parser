@@ -80,6 +80,3 @@ SAMPLE EXECUTION & OUTPUT
 		Parsing complete. Worbook has been updated.
 
   Either case implies that the ".xlsx" file has been updated.
-  
-  
-  Note: To see the kind of data being processed, see the text file "sample_data.txt".
